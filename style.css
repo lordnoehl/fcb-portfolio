@@ -1,0 +1,43 @@
+*{
+	font-family: "Roboto", sans-serif;
+}
+
+h1, h2 {
+	font-family: "Montserat", sans-serif;
+}
+
+img{
+	height: 250px ;
+	width: 250px;
+	border-radius: 500px;
+}
+
+#landing{
+	height: 80vh;
+	display: flex;
+	flex-direction: column;	
+	justify-content: center;
+	align-items: center;
+
+}
+#gallery{
+	flex-direction: column;	
+	justify-content: center;
+	align-items: center;
+	height: 75vh;
+}
+ul{
+	list-style: name;
+	padding: auto;
+}
+h2{
+	color: seagreen;
+}
+.tools{
+	padding: 25px;
+	border: 5px solid #f2f2f2;
+	margin: 75px;
+	width: 75px;
+}
+html{
+scroll-behavior: smooth;}
